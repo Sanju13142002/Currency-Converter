@@ -1,4 +1,4 @@
-**Currency Converter **💱
+**Currency Converter ** 💱
 
 A simple web app to convert currencies in real-time using HTML, CSS, and JavaScript. It fetches live exchange rates and displays country flags for a more interactive experience.
 
